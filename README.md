@@ -1,7 +1,7 @@
-# Proyecto de Web Scraping para Rankings de Lenguajes mas usados de Programación
+# Trabajo practico de Web Scraping para Rankings de Lenguajes mas usados de Programación
 
 ## Descripción
-Este proyecto consiste en un script de web scraping desarrollado en Node.js utilizando la biblioteca Puppeteer para la extracción de información de tres fuentes web. El objetivo es obtener un ranking actualizado de los 10 lenguajes de programación más utilizados según diferentes fuentes y consolidar la información en un archivo Excel.
+Este trabajo practico se trata de un script de web scraping desarrollado en Node.js utilizando la biblioteca Puppeteer para la extracción de información de tres fuentes web. El objetivo es obtener un ranking actualizado de los 10 lenguajes de programación más utilizados según diferentes fuentes y consolidar la información en un archivo Excel.
 
 ### Sitios web de origen:
 - **Teclab**: Proporciona un listado de los lenguajes de programación más usados.
@@ -22,7 +22,6 @@ Este proyecto consiste en un script de web scraping desarrollado en Node.js util
 ### Requisitos previos
 - Node.js (v14 o superior)
 - npm (v6 o superior)
-Ejecutar el script con el siguiente comando en la terminal ```bash: node scraping.js
 
 ### Instalación de dependencias 
 Ejecuta el siguiente comando para instalar las dependencias necesarias:
@@ -31,3 +30,6 @@ Ejecuta el siguiente comando para instalar las dependencias necesarias:
 ### Ejecución del Script
 Ejecuta el siguiente comando para correr el script de scraping:
 ``bash: node scraping.js 
+
+### Resumen del trabajo practico
+El objetivo del trabajo práctico es conocer los lenguajes más utilizados en 2024 y, con ello, obtener una ventaja a la hora de tomar decisiones. Esto podría mejorar nuestra empleabilidad al observar los lenguajes más populares o con mayor demanda laboral. Además, nos sería útil al seleccionar tecnologías para un proyecto, ya que podríamos verificar si cuentan con una comunidad activa y buena documentación, ya que los lenguajes más populares suelen tener mejor soporte y más bibliotecas disponibles. Estas son solo algunas de las muchas utilidades y beneficios que podemos obtener al utilizar la técnica de web scraping y comparar los resultados.
