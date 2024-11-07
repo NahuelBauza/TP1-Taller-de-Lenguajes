@@ -20,7 +20,7 @@ Este proyecto consiste en un script de web scraping desarrollado en Node.js util
 
 ### Instalación de dependencias
 Ejecuta el siguiente comando para instalar las dependencias necesarias:
-```bash: npm install puppeteer xlsx
+```bash: npm install puppeteer xlsx  
 
 ### Ejecución del Script
 Ejecuta el siguiente comando para instalar las dependencias necesarias:
