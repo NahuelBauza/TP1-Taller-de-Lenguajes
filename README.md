@@ -1,4 +1,4 @@
-# Trabajo practico de Web Scraping para Rankings de Lenguajes mas usados de Programación
+# Trabajo practico de Web Scraping para Rankings de Lenguajes mas populares de Programación 2024
 
 ## Descripción
 Este trabajo practico se trata de un script de web scraping desarrollado en Node.js utilizando la biblioteca Puppeteer para la extracción de información de tres fuentes web. El objetivo es obtener un ranking actualizado de los 10 lenguajes de programación más utilizados según diferentes fuentes y consolidar la información en un archivo Excel.
