@@ -26,19 +26,20 @@ Este trabajo practico se trata de un script de web scraping desarrollado en Node
 - npm (v6 o superior)
 ```
 2. ### Clonar repositorio o descargar los archivos
+Están subidos en este perfil de GitHub en el repositorio 
 ```bash
-Están subidos en este perfil de GitHub en el repositorio "TP1-Taller-de-Lenguajes"
+TP1-Taller-de-Lenguajes
 ```
 
 3. ### Instalación de dependencias 
-```bash
 Ejecuta el siguiente comando para instalar las dependencias necesarias:
+```bash
 npm install puppeteer xlsx
 ```
 
 4. ### Ejecución del Script
-```bash
 Ejecuta el siguiente comando para correr el script de scraping:
+```bash
 node scraping.js
 ```
 
