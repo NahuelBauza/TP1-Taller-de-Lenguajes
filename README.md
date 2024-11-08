@@ -19,17 +19,20 @@ Este trabajo practico se trata de un script de web scraping desarrollado en Node
 - **XLSX**: Biblioteca para la manipulación de archivos Excel.
 
 ## Configuración y Ejecución
-### Requisitos previos
+1. ### Requisitos previos
 - Node.js (v14 o superior)
 - npm (v6 o superior)
 
-### Instalación de dependencias 
+2. ### Clonar repositorio o descargar los archivos
+Están subidos en este perfil de GitHub en el repositorio "TP1-Taller-de-Lenguajes"
+
+3. ### Instalación de dependencias 
 Ejecuta el siguiente comando para instalar las dependencias necesarias:
 ``bash: npm install puppeteer xlsx
 
-### Ejecución del Script
+4. ### Ejecución del Script
 Ejecuta el siguiente comando para correr el script de scraping:
-``bash: node scraping.js 
+``bash: node scraping.js
 
 ### Resumen del trabajo practico
 El objetivo del trabajo práctico es conocer los lenguajes más utilizados en 2024 y, con ello, obtener una ventaja a la hora de tomar decisiones. Esto podría mejorar nuestra empleabilidad al observar los lenguajes más populares o con mayor demanda laboral. Además, nos sería útil al seleccionar tecnologías para un proyecto, ya que podríamos verificar si cuentan con una comunidad activa y buena documentación, ya que los lenguajes más populares suelen tener mejor soporte y más bibliotecas disponibles. Estas son solo algunas de las muchas utilidades y beneficios que podemos obtener al utilizar la técnica de web scraping y comparar los resultados.
