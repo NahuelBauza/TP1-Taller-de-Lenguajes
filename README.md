@@ -21,6 +21,7 @@ Este trabajo practico se trata de un script de web scraping desarrollado en Node
 ## Configuración y Ejecución
 
 1. ### Requisitos previos
+Tener instalado:
 ```bash
 - Node.js (v14 o superior)
 - npm (v6 o superior)
